@@ -6,7 +6,7 @@ Used by:
 
 -Tool: Selenium WebDriver, Maven, Log4j
 
--Framework: Cucumber BDD, POM
+-Framework: TestNG, POM
 
 -Language: Java
 
