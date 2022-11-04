@@ -1,0 +1,12 @@
+2022-11-03 21:12:39 INFO  TestCase1_2:43 - Hepsiburada sitesine gidildi
+2022-11-03 21:12:48 INFO  TestCase1_2:48 - Griris isleminin yapildigi dogrulandi
+2022-11-03 21:12:49 INFO  TestCase1_2:56 - Kullanici satin almak istedigi urun icin arama yapti
+2022-11-03 21:12:57 INFO  TestCase1_2:65 - Kullanici urun listesinden urun secti
+2022-11-03 21:13:05 INFO  TestCase1_2:85 - Secilen urun icin iki farkli saticidan urun secip sepete ekledi
+2022-11-03 21:13:11 INFO  TestCase1_2:94 - Secilen urunun dogru olarak eklendigi ‘Sepetim’ sayfasinda dogrulandi
+2022-11-03 21:13:11 INFO  TestCase1_2:96 - Sayfa kapatildi
+2022-11-03 21:14:39 INFO  TestCase1_2:105 - Hepsiburada sitesine gidildi
+2022-11-03 21:14:48 INFO  TestCase1_2:124 - Kullanici urun listesinden urun secti
+2022-11-03 21:14:59 INFO  TestCase1_2:147 - Secilen urun icin 2 tane farkli saticidan urun secip sepete ekledi
+2022-11-03 21:15:05 INFO  TestCase1_2:155 - Secilen urunun dogru olarak eklendigi ‘Sepetim’ sayfasinda dogrulandi
+2022-11-03 21:15:05 INFO  TestCase1_2:158 - Sayfa kapatildi
